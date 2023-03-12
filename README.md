@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Setyo 👋
+
+### and here is my stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=setyo46&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=setyo46&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
 
 <!--
 **setyo46/setyo46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<p align="center"> <a href="https://github.com/setyo46"> <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=setyo46&count_private=true&theme=vue-dark&show_icons=true" /> </a> </p>
 
 Here are some ideas to get you started:
 
