@@ -1,8 +1,6 @@
 ### Hi there, I'm Setyo 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=setyo46&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-</p>
+
 
 <!--
 **setyo46/setyo46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
